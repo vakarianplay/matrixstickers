@@ -1,0 +1,11 @@
+{
+  "packs": [
+    "kakiekamni.json",
+    "kallunix.json",
+    "gordonobama.json",
+    "oreomojis.json",
+    "asciiemotes.json",
+    "oaaoammm.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
