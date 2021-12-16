@@ -7,7 +7,7 @@ Fork maunium/stickerpicker repo
 
 * Заходим в настройки *любого* чата
 
- > ![Image alt](https://github.com/vakarianplay/matrixstickers/blob/main/manualpic/1.png)
+ > ![Image alt](https://github.com/vakarianplay/matrixstickers/blob/main/manualpic/1-1.png)
 
 
 * Заходим в пункт **"подробности"** и открываем **"инструменты разработчика"**
